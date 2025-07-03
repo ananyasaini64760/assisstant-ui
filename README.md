@@ -1,6 +1,6 @@
 # 🤖 AI Assistant UI – ChatGPT/Gemini Clone using assistant-ui
 
-A fully functional, conversational AI assistant UI built using the [`assistant-ui`](https://github.com/vercel/assistant-ui) framework. This project integrates Google Gemini (or OpenAI) via API to simulate a ChatGPT-style user experience in your browser.
+A fully functional, conversational AI assistant UI built using the `assistant-ui` framework. This project integrates Google Gemini (or OpenAI) via API to simulate a ChatGPT-style user experience in your browser.
 
 ---
 
