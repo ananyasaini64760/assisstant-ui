@@ -21,13 +21,4 @@ A fully functional, conversational AI assistant UI built using the [`assistant-u
 - `assistant-ui` from Vercel
 - `@ai-sdk/openai` or `@ai-sdk/gemini`
 - RESTful API routes
-- Tailwind CSS (optional but recommended)
 
----
-
-## 🚀 Getting Started
-
-### 1. Create New Project
-
-```bash
-npx assistant-ui@latest create
