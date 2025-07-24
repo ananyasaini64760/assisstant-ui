@@ -2,6 +2,8 @@
 
 A fully functional, conversational AI assistant UI built using the `assistant-ui` framework. This project integrates Google Gemini (or OpenAI) via API to simulate a ChatGPT-style user experience in your browser.
 
+Check out: [AI Assistant](https://assisstant-ui.vercel.app/)
+
 ---
 
 ## ✨ Features
